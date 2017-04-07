@@ -107,5 +107,3 @@ Fichiers de tests et résultats attendus :
 https://questionsacm.isograd.com/codecontest/sample_input_output/sample-ifQwgKdQthI-HRF8NiD2RmibCNB_sJykE5ipbvNeTII.zip
 
 https://www.isograd.com/FR/solutionconcours.php
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
