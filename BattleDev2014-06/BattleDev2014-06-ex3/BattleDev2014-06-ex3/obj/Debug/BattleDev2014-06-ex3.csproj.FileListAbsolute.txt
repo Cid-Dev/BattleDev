@@ -1,0 +1,6 @@
+C:\Users\41010-11-08\Desktop\projs\BattleDev2014-06-ex3\BattleDev2014-06-ex3\bin\Debug\BattleDev2014-06-ex3.exe.config
+C:\Users\41010-11-08\Desktop\projs\BattleDev2014-06-ex3\BattleDev2014-06-ex3\bin\Debug\BattleDev2014-06-ex3.exe
+C:\Users\41010-11-08\Desktop\projs\BattleDev2014-06-ex3\BattleDev2014-06-ex3\bin\Debug\BattleDev2014-06-ex3.pdb
+C:\Users\41010-11-08\Desktop\projs\BattleDev2014-06-ex3\BattleDev2014-06-ex3\obj\Debug\BattleDev2014-06-ex3.csprojResolveAssemblyReference.cache
+C:\Users\41010-11-08\Desktop\projs\BattleDev2014-06-ex3\BattleDev2014-06-ex3\obj\Debug\BattleDev2014-06-ex3.exe
+C:\Users\41010-11-08\Desktop\projs\BattleDev2014-06-ex3\BattleDev2014-06-ex3\obj\Debug\BattleDev2014-06-ex3.pdb
