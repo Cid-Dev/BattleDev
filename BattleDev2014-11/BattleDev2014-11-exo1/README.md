@@ -33,3 +33,7 @@ Sortie
 La chaîne de caractères OK si X est une sous-séquence de Y.
 
 Sinon, la chaîne de caractères NOK n où n représente la longueur (éventuellement 0) du plus grand préfixe de X qui soit sous-séquence de Y. On entend par préfixe de longueur n, la sous-chaîne égale aux n premiers caractères de X.
+
+fichiers de tests et de résultats attendus :
+
+https://questionsacm.isograd.com/codecontest/sample_input_output/sample-HRkKHKpt9AB8K9nRu-xF6dfQCaesviRMiyTikTNoMTI.zip
